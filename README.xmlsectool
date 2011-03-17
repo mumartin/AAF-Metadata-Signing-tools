@@ -1,0 +1,5 @@
+Down load the xmlsectool and extract in this directory.
+
+Create symbolic link xmlsectool -> extracted directory
+
+   $ ln -s xmlsectool-1.1.1 xmlsectool
